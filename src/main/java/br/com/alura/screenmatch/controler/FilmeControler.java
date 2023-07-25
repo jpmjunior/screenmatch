@@ -36,6 +36,6 @@ public class FilmeControler {
 		
 		System.out.println(filmes);
 		
-		return "filmes/formulario";
+		return "redirect:/filmes";
 	}
 }
